@@ -1,0 +1,8 @@
+Naive Bayes accuracy percent: 80.77403245942571 
+MNB_classifier accuracy percent: 85.0187265917603 
+BernoulliNB_classifier accuracy percent: 84.01997503121099 
+LogisticRegression_classifier accuracy percent: 87.76529338327092 
+SGDClassifier_classifier accuracy percent: 82.27215980024968 
+SVC_classifier accuracy percent: 87.89013732833958 
+LinearSVC_classifier accuracy percent: 83.02122347066168 
+Voted Classifier accuracy percent: 86.89138576779027 
